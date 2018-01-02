@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+  background-color:powderblue;
+  margin: 0;
+}
+
+.allview {
+  min-height: calc(100vh - 50px);   /* 50px is height of footer */
+}
+
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: tomato;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+/* Style the topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
+
+/* Style the content */
+.content {
+    background-color:powderblue;
+    padding-top: 70px;
+}
+
+body {
+  font-family: "휴먼모음T"
+}
+
+footer {
+  background-color: white;
+  padding: 10px;
+  text-align: center;
+  height: 50px;
+}
