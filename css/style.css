@@ -38,7 +38,6 @@ body {
 
 /* Style the content */
 .content {
-    background-color:powderblue;
     padding-top: 70px;
 }
 
@@ -50,5 +49,6 @@ footer {
   background-color: white;
   padding: 10px;
   text-align: center;
-  height: 50px;
+  height: cover;
+  color: black;
 }
