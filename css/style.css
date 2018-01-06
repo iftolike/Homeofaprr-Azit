@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color:powderblue;
+  background-color:white;
   margin: 0;
 }
 
@@ -12,17 +12,17 @@ body {
 }
 
 /* Style the top navigation bar */
-.topnav {
+.navbar {
     overflow: hidden;
-    background-color: tomato;
-    position: fixed;
+    background-color: #000000;
     top: 0;
     width: 100%;
     z-index: 1;
+    color: white;
 }
 
 /* Style the topnav links */
-.topnav a {
+.topnav li {
     float: left;
     display: block;
     color: white;
@@ -38,16 +38,13 @@ body {
 }
 
 /* Style the content */
-.content {
-    padding-top: 70px;
-}
 
 body {
   font-family: "휴먼모음T"
 }
 
 footer {
-  background-color: white;
+  background-color: silver;
   padding: 10px;
   text-align: center;
   height: cover;
