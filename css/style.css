@@ -1,5 +1,5 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
@@ -13,22 +13,22 @@ body {
 
 /* Style the top navigation bar */
 .navbar {
-    overflow: hidden;
-    background-color: white;
-    top: 0;
-    width: 100%;
-    z-index: 1;
-    color: black;
+  overflow: hidden;
+  background-color: white;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  color: black;
 }
 
 body {
   font-family: "Hanna";
-  color: white;
-  background-image: url(../images/background.jpg);
+  color: black;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRikJ1EHsiDFpRP3z04qRTVDmCzC-ABOHKMHA466rvIZk-7l8WNhA);
   background-size: 100%;
-  background-attachment: fixed;
   width: 100%;
   height: 100%;
+  background-attachment: fixed;
 }
 
 footer {
