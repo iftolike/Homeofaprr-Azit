@@ -47,3 +47,12 @@ footer {
 .heading {
   text-decoration: underline;
 }
+
+.yellow-link {
+  color: yellow;
+}
+
+.yellow-link:hover {
+  color: yellow;
+  text-decoration: underline;
+}
