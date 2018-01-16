@@ -60,3 +60,9 @@ footer {
 .red {
   color: red;
 }
+
+#rule-page-footer {
+  bottom:0;
+  position:absolute;
+  width: 100%;
+}
