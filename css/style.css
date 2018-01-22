@@ -61,8 +61,6 @@ footer {
   color: red;
 }
 
-#rule-page-footer {
-  bottom:0;
-  position:relative;
-  width: 100%;
+.rules {
+  height: 100vh;
 }
