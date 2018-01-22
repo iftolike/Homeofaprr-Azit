@@ -32,11 +32,15 @@ body {
 }
 
 footer {
-  background-color: lightgray;
+  background-color: black;
   padding: 10px;
+  height: 110px;
+  color: white;
   text-align: center;
-  height: 100px;
-  color: black;
+}
+
+footer a {
+  color: white;
 }
 
 #home,#events,#gov,#news,#rules {
@@ -59,4 +63,8 @@ footer {
 
 .red {
   color: red;
+}
+
+#rules {
+  height: 100vh;
 }
